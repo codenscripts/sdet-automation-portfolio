@@ -100,9 +100,5 @@ Feel free to reach out for:
 - Code reviews
 - Best practices sharing
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
 ⭐️ If you find this portfolio helpful, please consider giving it a star!
